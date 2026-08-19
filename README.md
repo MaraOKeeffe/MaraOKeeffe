@@ -20,7 +20,7 @@ Analysis of 120K synthesized claims to identify drivers of claims denials and id
 
 **Methods**: data cleaning, KPI development, data validation, data storytelling, process improvement, dashboard development  
 
-**Healthcare Access and Population Analysis -2026**
+**Healthcare Access and Population Analysis -2026**  
 **SQL, BigQuery, Power BI**
 Integrated multiple healthcare datasets to analyze utilization differences based on geography, provider availability, and rurality.  
 
