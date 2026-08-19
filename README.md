@@ -1,6 +1,6 @@
 # Mara O'Keeffe
 ## Healthcare Data Analyst | Clinical Operations and Performance Improvement
-### I am a healthcare data analyst and Doctor of Physical Therapy with 4 years of experience in the clinic. With my domain expertise, I boil down complex clinical topics into easily understandable and actionable insights for non-technical audiences in the healthcare space. I am proficient using SQL, BigQuery, Excel, and Power BI.
+### I am a healthcare data analyst and Doctor of Physical Therapy with 4+ years of experience in the clinic. With my domain expertise, I boil down complex clinical topics into easily understandable and actionable insights for non-technical audiences in the healthcare space. I am proficient using SQL, BigQuery, Excel, and Power BI.
 ### My portfolio contains data projects I have completed independently that turn complex datasets into insights about revenue cycles, denials claims, provider availability, and utilization.
 ## Technical Skills
 **Data & Analytics** SQL • BigQuery • Excel • Data Cleaning • Data Modeling • Exploratory Data Analysis  
@@ -9,7 +9,7 @@
 **Domain Knowledge** Clinical Operations • Medicare/Medicaid Billing • ICD-10/CPT Coding • Healthcare Quality • Patient Access  
 
 ## Technical Projects
-**Healthcare Claims Denial Analysis - 2026**  
+**1. Healthcare Claims Denial Analysis - 2026**  
 **SQL, BigQuery, Power BI**  
 Analysis of 120K synthesized claims to identify drivers of claims denials and identify opportunities to reduce denials on first pass.  
 
@@ -20,7 +20,7 @@ Analysis of 120K synthesized claims to identify drivers of claims denials and id
 
 **Methods**: data cleaning, KPI development, data validation, data storytelling, process improvement, dashboard development  
 
-**Healthcare Access and Population Analysis -2026**  
+**2. Healthcare Access and Population Analysis - 2026**  
 **SQL, BigQuery, Power BI**
 Integrated multiple healthcare datasets to analyze utilization differences based on geography, provider availability, and rurality.  
 
